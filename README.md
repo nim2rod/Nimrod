@@ -1,4 +1,6 @@
-<h2>Angular,Vue,React<h2>
+<h2>Hi, I'm Nimrod Aviam<h2>
+<h3>Full-Stack/Fronted developer<h3>
+<h3>Angular,Vue,React<h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nimrod aviam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimrod aviam" height="30" width="40" /></a>
